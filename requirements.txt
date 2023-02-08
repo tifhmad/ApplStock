@@ -1,3 +1,4 @@
 pandas
 plotly
 streamlit==1.14.0
+pickle
